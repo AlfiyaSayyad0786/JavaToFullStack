@@ -4,3 +4,4 @@ public class char1 {
         System.out.println(grade);
     }
 }
+ 
